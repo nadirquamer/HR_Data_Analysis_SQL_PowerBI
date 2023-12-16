@@ -1,4 +1,4 @@
-# HR_Data_Analysis_SQL_PowerBI
+# HR Data Analysis
 
 ### Dashboard
 
