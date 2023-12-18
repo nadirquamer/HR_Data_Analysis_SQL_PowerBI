@@ -1,5 +1,11 @@
 # HR Data Analysis
 
+### Project Overview
+
+The data is from the HR department of an American company. Tried to find answers to some questions like gender distribution of employees, race, region, department they belong to, etc. by analysis and query in MySQL and created an interactive dashboard in PowerBI.
+
+
+
 ### Dashboard
 
 ![image1](https://github.com/nadirquamer/HR_Data_Analysis_SQL_PowerBI/assets/46354703/961c6fb6-963d-4cc5-bbf7-1a7f9c712b54)
